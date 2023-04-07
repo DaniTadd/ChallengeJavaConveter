@@ -38,9 +38,9 @@ Second challenge from Oracle One Next Education Program - Currency and temperatu
 <p>El programa consta de una ventana principal a través de la que se elige el convertidor que se desea usar, "Divisas" o "Temperaturas.</p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/121594162/230537615-033ea3de-05b2-49d4-805e-9d453247c661.PNG" width="300"/>
-<img src="https://user-images.githubusercontent.com/121594162/230537617-fa370935-fb74-4fdf-ab36-838e9650f38f.PNG" width="300"/>
-<img src="https://user-images.githubusercontent.com/121594162/230537618-83a914b6-ea95-4311-b13d-f06558114af0.PNG" width="300"/>
+<img src="https://user-images.githubusercontent.com/121594162/230537615-033ea3de-05b2-49d4-805e-9d453247c661.PNG" width="450"/>
+<img src="https://user-images.githubusercontent.com/121594162/230537617-fa370935-fb74-4fdf-ab36-838e9650f38f.PNG" width="450"/>
+<img src="https://user-images.githubusercontent.com/121594162/230537618-83a914b6-ea95-4311-b13d-f06558114af0.PNG" width="450"/>
 </p>
 
 <h3>:computer: Aspectos del código</h3>
